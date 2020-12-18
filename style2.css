@@ -2,6 +2,7 @@
 	background: linear-gradient(to right,#00ff00,#ff0000);
 	display:flex;
 	flex-align:center;
+	margin: auto;
 }
 
 
